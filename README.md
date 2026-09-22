@@ -1,8 +1,8 @@
 # CS-4379H.001-Group-1
 ## Contributors
-Tina Carter | a-gr1f
-Justin Williams | SeidaSecurity
-Adiyat Abubakirov | ELEPHANT
+Tina Carter       | a-gr1f
+Justin Williams   | SeidaSecurity
+Adiyat Abubakirov | adiyat-abubakirov
 
 ## Project Proposal
 **Paper Title:** 
