@@ -5,7 +5,7 @@ Tina Carter&#9;&#9;&#9;&#9;| a-gr1f
 <br>Adiyat Abubakirov&#9;| adiyat-abubakirov
 
 ## Project Proposal
-**Paper Title:** 
+**Paper Title:** Accelerating SLH-DSA by Two Orders of Magnitude with a Single Hash Unit
 
 `Reviewer` &#9;Task 1 (10 points) Write your own high-level overview (like a summary) of the key contributions of the paper that your team has picked (7 pts), then complete the AI Review Disagreement Table below against your review of your paper (3 pts). Write your review before reading the AI review.
 **Overview:** 
