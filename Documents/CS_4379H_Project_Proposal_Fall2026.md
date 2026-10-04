@@ -1,10 +1,16 @@
 # Project Proposal
 
-**Paper Title:**
+**Paper Title:** Accelerating SLH-DSA by Two Orders of Magnitude with a Single Hash Unit
 
 **Group Members:**
+| Full Name | GitHub nickname |
+| -------------- | --------------- |
+| Tina Carter | a-gr1f |
+| Adiyat Abubakirov | adiyat-abubakirov |
+| Justin Williams | SeidaSecurity |
 
-<Reviewer>
+
+**Reviewer:** Heena Rathore
 
 ## Task 1 (10 points)
 

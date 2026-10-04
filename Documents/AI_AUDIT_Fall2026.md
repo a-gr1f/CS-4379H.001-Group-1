@@ -2,10 +2,15 @@
 
 CS 4379H Cryptography, Fall 2026
 
-**Group #: 1
-**Team name / number:** Adiyat Abubakirov, Tina Carter, Justin Williams
+**Group #: 1**
+| Full Name | GitHub nickname |
+| -------------- | --------------- |
+| Tina Carter | a-gr1f |
+| Adiyat Abubakirov | adiyat-abubakirov |
+| Justin Williams | SeidaSecurity |
 
-**Paper:**
+
+**Paper:** Accelerating SLH-DSA by Two Orders of Magnitude with a Single Hash Unit
 
 **AI assistant(s) used (name and version, e.g., "ChatGPT (GPT-5), Claude (Sonnet 5)")**
 
