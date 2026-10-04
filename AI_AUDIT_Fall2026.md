@@ -10,9 +10,9 @@ CS 4379H Cryptography, Fall 2026
 | Justin Williams | SeidaSecurity |
 
 
-**Paper:** Accelerating SLH-DSA by Two Orders of Magnitude with a Single Hash Unit
+**Paper:** Accelerating SLH-DSA by Two Orders of Magnitude with a Single Hash Unit (2nd paper on recommended list)
 
-**AI assistant(s) used (name and version, e.g., "ChatGPT (GPT-5), Claude (Sonnet 5)")**
+**AI assistant(s) used (name and version, e.g., "ChatGPT (GPT-5), Claude (Sonnet 5)"):** Qwen3.7-Plus Deep Think, Copilot Deep Think, GPT-5.6 Sol Deep Think, Deepseek Deep Think.
 
 ## How to use this log
 

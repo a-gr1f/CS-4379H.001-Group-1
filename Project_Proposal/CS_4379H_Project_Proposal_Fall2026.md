@@ -1,6 +1,6 @@
 # Project Proposal
 
-**Paper Title:** Accelerating SLH-DSA by Two Orders of Magnitude with a Single Hash Unit
+**Paper Title:** Accelerating SLH-DSA by Two Orders of Magnitude with a Single Hash Unit (2nd paper on recommended list)
 
 **Group Members:**
 | Full Name | GitHub nickname |
@@ -10,7 +10,7 @@
 | Justin Williams | SeidaSecurity |
 
 
-**Reviewer:** Heena Rathore
+**Reviewer:**
 
 ## Task 1 (10 points)
 
