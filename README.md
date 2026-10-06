@@ -1,6 +1,7 @@
 # CS-4379H.001-Group-1
 
-**Paper Title:** Accelerating SLH-DSA by Two Orders of Magnitude with a Single Hash Unit
+**Paper Title:** Accelerating SLH-DSA by Two Orders of Magnitude with a Single Hash Unit 
+by Markku-Juhani O. Saarinen | SoC Hub Research Centre, Tampere University, Finland
 
 ## Contributors
 Tina Carter&#9;&#9;&#9;&#9;| a-gr1f
@@ -9,6 +10,9 @@ Tina Carter&#9;&#9;&#9;&#9;| a-gr1f
 
 ## Project Proposal
 Our detailed project proposal can be found in `./Project Proposal/`
+
+## APPENDIX | AI Audit
+See file `AI_AUDIT_Fall2026.md` for our detailed AI audit; an AI assistant provided three follow-up project ideas based on our chosen paper, we then labeled and justify each (feasible/already published/technically flawed/etc).
 
 `Reviewer` &#9;Task 1 (10 points) Write your own high-level overview (like a summary) of the key contributions of the paper that your team has picked (7 pts), then complete the AI Review Disagreement Table below against your review of your paper (3 pts). Write your review before reading the AI review.
 
