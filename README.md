@@ -10,10 +10,10 @@ Tina Carter&#9;&#9;&#9;&#9;| a-gr1f
 
 ## Commit and Formatting Guidelines
 `text` files and changes (e.g. .pdf and .txt and .md) such as README can be committed directly to `main`
-`images` and other non-code files used in **text** files (e.g. that are not accessed by code files) can be committed directly to `main`
-`code` changes **must** be committed in a `development branch` that is **specific** to that code's/commit's purpose/function
+<br/>`images` and other non-code files used in **text** files (e.g. that are not accessed by code files) can be committed directly to `main`
+<br/>`code` changes **must** be committed in a `development branch` that is **specific** to that code's/commit's purpose/function
 
-`development branch` once **fully functional** on-top of the most recent version of `main` can be ELEPHANT: commit style preference TBDiscussed
+<br/>`development branch` once **fully functional** on-top of the most recent version of `main` can be ELEPHANT: commit style preference TBDiscussed
 
 ## Project Proposal
 Our detailed project proposal can be found in `./Project Proposal/`
