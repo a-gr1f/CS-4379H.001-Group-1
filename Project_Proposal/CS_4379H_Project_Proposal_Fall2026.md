@@ -30,7 +30,7 @@ These results demonstrate an order-of-magnitude improvements in the performance 
 
 - Challenging perceptions of Secure Boot: Quantitative evidence indicates accelerated SLH-DSA "s" variants are likely to be faster at signature verification than comparably-sized ECDSA or Dilithium accelerators. This runs counter to public perception, and provides strong evidence that "conservative" hash-based signatures are suitable for latency-sensitive firmware verification.
 
-- SLH-DSA'S Fault Resilience: The authors admit a major flaw in SLH-DSA signing is its exposure to fault injection. A faulty signature could be validated yet leak enough information to allow future signatures to be forged. This is especially valuable to hardware designers as it shows that simple post-signature validation is not sufficient and that hardware duplication and redundancy is an upgrade.
+- SLH-DSA'S Fault Resilience: The authors admit a major flaw in SLH-DSA signing is its exposure to fault injection. A faulty signature could be validated by leaking enough information to allow future signatures to be forged. This is especially valuable to hardware designers as it shows that simple post-signature validation is not sufficient and that hardware duplication and redundancy is an upgrade.
 
 ## AI Review Disagreement Table (3 pts)
 
