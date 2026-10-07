@@ -82,9 +82,9 @@ Our topic originated from our findings. AI tools were utilized to provide summar
 _Ask an approved AI assistant for three follow-up project ideas based on your paper, then label and justify each._
 | AI-suggested idea | Label (feasible / already published / technically flawed) | One-sentence justification |
 | --------------- | --------------- | --------------- |
-| Secure Boot Simulator Using SLH-DSA | feasible | For this reason, this software project is both useful and feasible, by simply using the core use case illustrated in the paper with open-source SLH-DSA implementations without the required hardware. |
+| Secure Boot Simulator Using SLH-DSA | feasible | By using the core use case illustrated in the paper with open-source SLH-DSA implementations without the required hardware, this software project is both useful and feasible. |
 | Comparing SLH-DSA Parameter Sets | already published | All 12 parameter sets' performance, key sizes, and signature sizes are all explicitly compared in the paper with a detailed quantitative analysis and tables, making a software dashboard more of a data visualization than a total new dataset. |
-| Software Simulation of Fault-Tolerant SLH-DSA Signing | technically flawed | Additionally, software cannot reliably emulate physical fault attack techniques, such as instruction skipping or voltage glitches. Clearly, the document states that basic post-signing verification won't work for such hardware faults. |
+| Software Simulation of Fault-Tolerant SLH-DSA Signing | technically flawed | Software cannot reliably emulate physical fault attack techniques, such as instruction skipping or voltage glitches. Clearly, the document states that basic post-signing verification won't work for such hardware faults. |
 
 
 ---
