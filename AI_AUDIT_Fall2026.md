@@ -44,7 +44,7 @@ One log per team, kept in the root of your GitHub repository and updated as you 
 | 5 | 10/04 | Student Researcher | Software Simulation of Fault-Tolerant SLH-DSA Signing | FC | yes | Additionally, software cannot reliably emulate physical fault attack techniques, such as instruction skipping or voltage glitches. Clearly, the document states that basic post-signing verification won't work for such hardware faults. | Adiyat Abubakirov |
 | 6 | 10/04 | Student Researcher | Secure Boot Simulator Using SLH-DSA | OK | yes | For this reason, this software project is both useful and feasible, by simply using the core use case illustrated in the paper with open-source SLH-DSA implementations without the required hardware. | Adiyat Abubakirov|
 | 7 | 10/04 | Student Researcher | Comparing SLH-DSA Parameter Sets | OK | yes | All 12 parameter sets' performance, key sizes, and signature sizes are all explicitly compared in the paper with a detailed quantitative analysis and tables, making a software dashboard more of a data visualization than a total new dataset. | Adiyat Abubakirov |
-| 8 | | | | | | | |
+| 8 |10/7 |Image |images for quantum correspondent presentation | OK |Yes (verified) | visual conformation related to the prompt | Justin |
 | 9 | | | | | | | |
 | 10 | | | | | | | |
 
